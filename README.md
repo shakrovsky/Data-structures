@@ -1,2 +1,2 @@
-# Data-structures.
+# Data structures.
 - Description will be added soon.
