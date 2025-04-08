@@ -1,2 +1,2 @@
-# Vector
-Implementation of a wrapper class over a dynamic array.
+# Vector.
+- Description will be added soon.
